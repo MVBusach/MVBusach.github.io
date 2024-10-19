@@ -1,0 +1,149 @@
+{
+    "version":0.1,
+    "modules":[
+      {
+        "id":"manual-fondef",
+        "path":"/modulos/manual-fondef",
+        "slug":"manual-fondef",
+        "name":"Manual FONDEF IT23I0031",
+        "subtitle":"", 
+        "img":"./img/modulos/Manual_fondef_portada1.jpg"
+      },
+      {
+        "id":"guias-complementarias",
+        "path":"/modulos/guias-complementarias",
+        "slug":"guias-complementarias",
+        "name":"Guías complementarias Educación Física y Salud",
+        "subtitle":"", 
+        "img":"./img/modulos/manual-habitos-saludables.png"
+      },
+      {
+        "id":"manual-habitos-saludables",
+        "path":"/modulos/manual-habitos-saludables",
+        "slug":"manual-habitos-saludables",
+        "name":"Manual de Hábitos Saludables en el Curriculum Escolar",
+        "subtitle":"", 
+        "img":"./img/modulos/manual-habitos-saludables.png"
+      },
+      {
+        "id":"manual-fuerza-juegos",
+        "path":"/modulos/manual-fuerza-juegos",
+        "slug":"manual-fuerza-juegos",
+        "name":"Manual de Fuerza y Juegos en la Escuela",
+        "subtitle":"", 
+        "img":"./img/modulos/manual-fuerza-juego.png"
+      },
+      {
+        "id":"manual-implementacion-entornos",
+        "path":"/modulos/manual-implementacion-entornos",
+        "slug":"manual-implementacion-entornos",
+        "name":"Manual de Implementación de Entornos Escolares Saludables",
+        "subtitle":"",
+        "img":"./img/modulos/manual-implementacion-entornos.jpg"
+      },
+      {
+        "id":"escuela-super-poderes",
+        "path":"/modulos/escuela-super-poderes",
+        "slug":"escuela-super-poderes",
+        "name":"Escuela de Súper Poderes Misión Vida Sana",
+        "subtitle":"", 
+        "img":"./img/modulos/escuela-super-poderes.png"
+      }
+
+    ],
+    "projects":[
+      {
+        "title":"Ayllu",
+        "slug":"ayllu",
+        "path":"/proyectos/ayllu",
+        "description": "Sistema de crowdsourcing para el levantamiento de información.",
+        "tag": "comunidad",
+        "img": "./img/proyectos/ayllu/ayllu-hero-0.png"
+      },
+      {
+        "title":"Ayni",
+        "slug":"ayni",
+        "path":"/proyectos/ayni",
+        "description": "Gestión de voluntariado en situaciones de emergencia.",
+        "tag": "voluntariado",
+        "img": "./img/proyectos/ayni/hero-ayni.png"
+      },
+        {
+          "title":"Rimay",
+          "slug":"rimay",
+          "path":"/proyectos/rimay",
+          "description": "Convocatoria y coordinación de equipos de trabajo.",
+          "tag": "voluntariado",
+          "img": "./img/proyectos/rimay/hero-rimay.png"
+        },
+        {
+          "title":"Aysana",
+          "slug":"aysana",
+          "path":"/proyectos/aysana",
+          "description": "Análisis de tweets para la protección de la población.",
+          "tag": "monitoreo",
+          "img": "./img/proyectos/aysana/hero-aysana.png"
+        },
+        {
+          "title":"Jayma",
+          "slug":"jayma",
+          "path":"/proyectos/jayma",
+          "description": "Chatbot de asistencia a personas en tiempo de emergencia.",
+          "tag": "comunidad",
+          "img": "./img/proyectos/jayma/hero-jayma.png"
+        },
+        {
+          "title":"Jawira",
+          "slug":"jawira",
+          "path":"/proyectos/jawira",
+          "description":"Plataforma de procesamiento en tiempo real",
+          "tag":"monitoreo",
+          "img":"./img/proyectos/jawira/hero-jawira.png"
+        
+        }
+      ],
+      "tools":[
+          {
+            "title": "Metodología de despliegue de aplicaciones",
+            "slug": "metodologia-despliegue",
+            "path": "/herramientas/metodologia-despliegue",
+            "img": "./img/iconos/0.5x/ico-despliegue@0.5x.png"
+          },
+          {
+            "title": "Simulador de evacuaciones",
+            "slug": "simulador-evacuaciones",
+            "path": "/herramientas/simulador-evacuaciones",
+            "img": "./img/iconos/0.5x/ico-evacuaciones@0.5x.png"
+          },
+          {
+            "title": "Simuladores de rendimiento de aplicaciones",
+            "slug": "simuladores-plataforma",
+            "path": "/herramientas/simuladores-plataforma",
+            "img": "./img/iconos/0.5x/ico-simuladores@0.5x.png"
+          },
+          {
+            "title":"Operadores de Aprendizaje de Máquina",
+            "slug": "operadores-ml",
+            "path":"/herramientas/operadores-ml",
+            "img":"./img/iconos/0.5x/ico-ml@0.5x.png"
+          },
+          {
+            "title": "Instrumentos psicométricos",
+            "slug": "instrumentos-psicometricos",
+            "path":"/herramientas/instrumentos-psicometricos",
+            "img":"./img/iconos/0.5x/ico-psicologia@0.5x.png"
+          },
+          {
+            "title": "Instrucciones de despliegue",
+            "slug": "instrucciones-despliegue",
+            "path": "/herramientas/instrucciones-despliegue",
+            "img": "./img/iconos/0.5x/ico-libro-blanco@0.5x.png"
+        }
+      ],
+      "userTypes":[
+        "Persona Natural",
+        "Institución Privada",
+        "ONG - Fundación"
+      ]
+      
+}

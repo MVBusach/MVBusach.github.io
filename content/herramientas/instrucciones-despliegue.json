@@ -1,0 +1,14 @@
+{
+    "title":"Instrucciones Despliegue Cloud Universitario",
+    "titleDrop":"",
+    "description":"El presente documento contiene la secuencia de paso para desplegar y configurar una  versión base del cloud interuniversitario para emergencias, esto basado en tecnologías de container y orquestación de container sobre el sistema operativo Linux (Ubuntu Server)",
+    "featuredImage":"./img/herramientas/simuladores-plataforma/simuladores-plataforma-hero.jpg",
+    "website":"./documentos/instrucciones-despliegue/descripcion",
+    "documents":[
+        {
+            "title":"Descripción de instrumento",
+            "url":"./docs/herramientas/informe-fondef-despliegue-cloud-2021.pdf"
+        }
+    ]
+
+}

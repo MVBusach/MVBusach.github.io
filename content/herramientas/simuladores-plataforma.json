@@ -1,0 +1,15 @@
+{
+    "title":"Plataforma de Simulación",
+    "titleDrop":"Simulación de aplicaciones para emergencias en catástrofes de gran extensión territorial",
+    "description":"La plataforma de simulación desarrollada tiene como objetivo simular el despliegues de una plataforma de aplicaciones para desastres de origen natural y permitir predecir el rendimiento que estas aplicaciones tendrán, ya sea en momentos de paz (donde no hay una situación extrema) y en los momentos de crisis, donde se sabe que el incremento de uso de aplicaciones crece exponencialmente. Dicha plataforma de aplicaciones está desplegada en un ambiente heterogéneo de clusters de servidores distribuidos a nivel nacional.",
+    "featuredImage":"./img/herramientas/simuladores-plataforma/simuladores-plataforma-hero.jpg",
+    "website":"./documentos/simuladores-plataforma/descripcion",
+    "action":"Solicitar simulador de prueba",
+    "documents":[
+        {
+            "title":"Informe Fondef Simulador",
+            "url":"./docs/herramientas/informe-fondef-simulador-2021.pdf"
+        }
+    ]
+    
+}

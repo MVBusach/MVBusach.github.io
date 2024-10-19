@@ -1,0 +1,196 @@
+{
+    "version": 0.1,
+    "subjects": [
+        {
+            "name": "Lenguaje y Comunicación",
+            "courses": [
+                {
+                    "name": "2A",
+                    "links": [
+                        {
+                            "name": "Escritura de sugerencias para una vida saludable",
+                            "link": "https://drive.google.com/file/d/1JAqOUjBLhbOQEwpzVamqPcmx0Ph3TWWM/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "3A",
+                    "links": [
+                        {
+                            "name": "Escritura grupal de un afiche / Beneficios de la disminución del consumo de sal",
+                            "link": "https://drive.google.com/file/d/18ds-PTK8RgYrp_z_S85tIoJQg9L0FqIo/view?usp=sharing"
+                        },
+                        {
+                            "name": "Crear adivinanzas / Alimentos saludables",
+                            "link": "https://drive.google.com/file/d/1hksI1X4-0tlfOHHXup5KP3bdmvAEBjw4/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "4A",
+                    "links": [
+                        {
+                            "name": "Elaboración de memes / Recomendaciones para mantenerse hidratado",
+                            "link": "https://drive.google.com/file/d/1TpkzvBdvJQ-9YpEfw-sSYMGezrR7MVtQ/view?usp=sharing"
+                        },
+                        {
+                            "name": "Escritura de una receta",
+                            "link": "https://drive.google.com/file/d/1KNg-vEB7dsIrApCPuQEWR4R-_Sp6GkYd/view?usp=sharing"
+                        },
+                        {
+                            "name": "Escritura de un comic / Consejos de vida saludable",
+                            "link": "https://drive.google.com/file/d/1ZeAVCpT28AiOIOasBJ9-oQ4MVu_q5MgX/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "5A",
+                    "links": [
+                        {
+                            "name": "Lectura de un poema y receta / Beneficios de comer pescado",
+                            "link": "https://drive.google.com/file/d/1Nn00eHhbaHSPkB-M555upPzlrc_D6AXR/view?usp=sharing"
+                        },
+                        {
+                            "name": "Comprensión de lectura / Los colores en frutas y verduras",
+                            "link": "https://drive.google.com/file/d/1BiLzK_6R0XqghF6HPwn2OFAc6LC3yRuI/view?usp=sharing"
+                        },
+                        {
+                            "name": "Elaboración de un mapa conceptual / Vida activa vs. sedentarismo y uso de las pantallas",
+                            "link": "https://drive.google.com/file/d/1s8atkBrTjVI2qe5Gg-44ijyMZrlRu7kG/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Matemáticas",
+            "courses": [
+                {
+                    "name": "2A",
+                    "links": [
+                        {
+                            "name": "El aporte de la vitamina C para nuestro cuerpo.",
+                            "link": "https://drive.google.com/file/d/1w1hPVGvEc_VG0U3St03jmtUg5OZQF7Z1/view?usp=sharing"
+                        },
+                        {
+                            "name": "Pictograma con escala 2:1 y los sellos negros en las colaciones",
+                            "link": "https://drive.google.com/file/d/1yxVms4LhE9hBQW3Y7pDAEx9kJmACm8C0/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "3A",
+                    "links": [
+                        {
+                            "name": "Comparar y ordenar números naturales hasta 1 000, utilizando la recta numérica o la tabla posicional: las calorías en los alimentos",
+                            "link": "https://drive.google.com/file/d/1QXj6dlaLI4l7u_7EYOwuF2izbpAHWReY/view?usp=sharing"
+                        },
+                        {
+                            "name": "Localización de un objeto en un mapa simple o cuadrícula: los aportes de la vitamina B en nuestras vidas",
+                            "link": "https://drive.google.com/file/d/1vbOEUgMqipS4tTSz-sCqg_iVAMWhTadA/view?usp=sharing"
+                        },
+                        {
+                            "name": "Fracciones de uso común uso en la compra de alimentos",
+                            "link": "https://drive.google.com/file/d/1SCc-3gdRk_KYaOym0fx7R2BG5mBLJZAe/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "4A",
+                    "links": [
+                        {
+                            "name": "La adición y la sustracción de números hasta 1 000: otorgando valor a los alimentos sanos en la rutina diaria",
+                            "link": "https://drive.google.com/file/d/1Lfxf78Vnk_82LwGgIoOxf48PNFGYHbEA/view?usp=sharing"
+                        },
+                        {
+                            "name": "La importancia del calcio en nuestra vida",
+                            "link": "https://drive.google.com/file/d/1IXXO0UI6KY8_umbfblI4A4U1lkBwYv54/view?usp=sharing"
+                        },
+                        {
+                            "name": "Identificar, escribir y representar fracciones propias y los números mixtos hasta el 5: el aporte nutricional de un batido de frutas para la once",
+                            "link": "https://drive.google.com/file/d/1UecBvFvC4CA_G7ek3Fm1TXRjUVGZukac/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "5A",
+                    "links": [
+                        {
+                            "name": "Comprensión de las fracciones propias y la importancia de la ingesta de agua para nuestras vidas",
+                            "link": "https://drive.google.com/file/d/14R9_FKL3cbzvyJysaVmJ7oJs9Pwd7KUR/view?usp=sharing"
+                        },
+                        {
+                            "name": "Creando experimentos con los alimentos",
+                            "link": "https://drive.google.com/file/d/1Lq8UpA4-9RDN_sYiSlLsg_c_ZV9AH0xz/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Historia, Geografía y Ciencias Sociales",
+            "courses": [
+                {
+                    "name": "2A",
+                    "links": [
+                        {
+                            "name": "El poder de los alimentos para prevenir problemas de salud. Modo de vida de los mapuches: alimentación y hierbas",
+                            "link": "https://drive.google.com/file/d/16F7lD0vNpbA351DyH72bbQc0c-ByqLmn/view?usp=sharing"
+                        },
+                        {
+                            "name": "El poder de los alimentos provenientes de los pueblos originarios para prevenir problemas de salud",
+                            "link": "https://drive.google.com/file/d/1LTL1GrBiKS7N8dASOqngxn4py4FLEbci/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "3A",
+                    "links": [
+                        {
+                            "name": "La civilización griega y la importancia de la actividad física para una vida saludable",
+                            "link": "https://drive.google.com/file/d/1dLPV3UP96t7T-hj3Mv501yYG3e_FaUnq/view?usp=sharing"
+                        },
+                        {
+                            "name": "La cultura griega y la importancia de mantener una dieta balanceada para una vida saludable",
+                            "link": "https://drive.google.com/file/d/1PI-JZI78vLGkhPO9tZsVN4_ndZbkTUMS/view?usp=sharing"
+                        },
+                        {
+                            "name": "Acueducto: legado de la civilización romana/ La importancia del agua potable para el cuerpo humano, la salubridad de las personas y la ingesta de alimentos",
+                            "link": "https://drive.google.com/file/d/1Z5BHmpuIYSRJYyXfi2Cc3lGXY6ISRNeX/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "4A",
+                    "links": [
+                        {
+                            "name": "La civilización azteca y sus aportes a nuestra cultura y alimentación",
+                            "link": "https://drive.google.com/file/d/1sTb_QRLsRQkAeeLodXjYnuU5OOZMI1W3/view?usp=sharing"
+                        },
+                        {
+                            "name": "La civilización inca y sus aportes a nuestra cultura, alimentación y vida saludable",
+                            "link": "https://drive.google.com/file/d/1t5PXZaYLAiW1Vxk8oJZtGPfSnKcEUqMJ/view?usp=sharing"
+                        },
+                        {
+                            "name": "La influencia de las civilizaciones maya, azteca e inca sobre la cultura y la sociedad de los países actuales",
+                            "link": "https://drive.google.com/file/d/1-lChESaXlnsaTpbgTypY7VlbuNq4OlFf/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "5A",
+                    "links": [
+                        {
+                            "name": "La importancia de un proyecto que solucione un problema de la comunidad escolar, considerando una dieta balanceada y la actividad física para una vida saludable",
+                            "link": "https://drive.google.com/file/d/1Zd52Ds0MIMxIBML_lCACKYnOx157k6iY/view?usp=sharing"
+                        },
+                        {
+                            "name": "Posibles soluciones frente a un problema o proyecto y justificar su elección, relacionando la importancia de la dieta saludable y la actividad física para lograr nuestras metas",
+                            "link": "https://drive.google.com/file/d/1fNEeQYt25fEXIcuxPyt2t4T-H6EH_fK5/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

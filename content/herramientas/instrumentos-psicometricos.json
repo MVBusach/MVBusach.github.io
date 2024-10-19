@@ -1,0 +1,39 @@
+{
+    "title":"Instrumento para selección de voluntarios espontáneos en situaciones de emergencias y desastres de origen natural",
+    "titleDrop":"Diseño y validación de un instrumento psicológico para caracterizar y seleccionar voluntarios espontáneos en Chile.",
+    "description":"El diseño y validación del instrumento se realizó con métodos mixtos, de tipo secuencial, participando expertos de organizaciones de voluntarios en Chile  en la etapa de construcción y 117 voluntarios del país en la etapa de validación. El instrumento consta de  5 dimensiones -conocimiento, habilidades/destrezas, conducta, motivación, y deseabilidad social-, con un total de 18 ítems y presenta adecuada validez y confiablidad para para su uso en situaciones de emergencias y desastres, pudiendo optimizar las labores de organismos de gestión del riesgo.",
+    "featuredImage":"./img/herramientas/instrumentos-psicometricos/voluntariado-hero.jpg",
+    "documentsOnly":"true",
+    "features":[
+        {
+            "description":"Instrumento diseñado y validado científicamente",
+            "img":"ico-validated"
+        },
+        {
+            "description":"Consta de 5 dimensiones y 18 ítems",
+            "img":"ico-items"
+        },
+        {
+            "description":"Uso apropiado para emergencias y desastres",
+            "img":"ico-emergency"
+        }
+    ],
+    "documents":[
+        {
+            "title":"Descripción de instrumento",
+            "url":"./docs/herramientas/descripcion-instrumento-voluntario.pdf"
+        }
+    ],
+    "sponsors":[
+        {
+            "title":"MovidosXChile",
+            "img":"./img/herramientas/instrumentos-psicometricos/logos/logo-movidos.png",
+            "link":"https://movidosxchile.cl/"
+        },
+        {
+            "title":"Techo",
+            "img":"./img/herramientas/instrumentos-psicometricos/logos/logo-techo.jpg",
+            "link":"https://www.techo.org/chile/"
+        }
+    ]
+}

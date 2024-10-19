@@ -1,0 +1,22 @@
+{
+    "title":"Despliegue Eficiente de Aplicaciones Sociales sobre un Cloud heterogéneo para Situaciones de Desastres de Origen Natural",
+    "titleDrop":"Metodología que permite obtener los requerimientos mínimos para  a soporte de desastres de origen natural y desplegarlos de resiliente",
+    "description":"La metodología de planeamiento de capacidad se entrega como una que permite determinar el número de réplicas de cada componente de distintas aplicaciones, junto al respectivo despliegue eficiente y distribuido en instancias virtuales elásticas sobre un cloud nacional de clusters de servidores, con la finalidad de que las aplicaciones puedan escalar debido al aumento del número de usuarios, acotando los tiempos de respuesta, entregar tolerancia a fallas, y utilizar los recursos computacionales eficientemente evitando la saturación de los mismos.",
+    "featuredImage":"./img/herramientas/metodologia-despliegue/metodologia-despliegue-hero.jpg",
+    "website":"./documentos/metodologia-despliegue/1_descripcion",
+    "action":"Solicitar más información sobre la metodología",
+    "features":[
+        {
+            "description":"Permite consolidar aplicaciones enfocadas en desastre de origen natural de gran escala",
+            "img":"ico-disaster"
+        },
+        {
+            "description":"Respaldada por un marco experimental robusto ",
+            "img":"ico-test-result"
+        },
+        {
+            "description":"Entregada como una herramienta de software práctica",
+            "img":"ico-computer"
+        }
+    ]
+}

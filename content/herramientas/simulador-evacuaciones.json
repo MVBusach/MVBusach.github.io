@@ -1,0 +1,35 @@
+{
+    "title":"DEMPS: Disaster Evacuation and Mobility Patterns Simulator",
+    "titleDrop":"Simulador de evacuaciones masivas en zonas costeras",
+    "description":"El simulador desarrollado es un simulador basado en agentes, denominado Disaster Evacuation and Mobility Patterns Simulator (DEMPS), que modela el comportamiento de personas en situaciones de evacuación masiva en zonas costeras. Como resultado de las simulaciones, es posible determinar el porcentaje de personas evacuadas a medida que transcurre la evacuación y determinar a qué distancia de las zonas seguras quedaron los habitantes que no lograron llegar a las zonas seguras.",
+    "website":"./documentos/simulador-evacuaciones/descripcion",
+    "websiteAlt":"https://demps.netlify.app/",
+    "featuredImage":"./img/herramientas/simulador-evacuaciones/simulador-evacuaciones-hero.png",
+    "action":"Solicitar acceso a simulador",
+    "features":[
+        {
+            "description":"Zona geográfica de simulación configurable por el usuario",
+            "img":"ico-map-marker"},
+        {
+            "description":"Uso eficiente de los recursos computacionales, lo que permite simular un escenario en forma rápida.",
+            "img":"ico-computer"},
+        {
+            "description":"Simulador validado con datos de evacuación real realizada en Iquique el año 2013.",
+            "img":"ico-running"
+        }
+    ],
+    "documents":[
+        {
+            "title":"Manual de Instalación",
+            "url":"./docs/herramientas/demps-manual-instalacion.pdf"
+        },
+        {
+            "title":"Manual de usuario",
+            "url":"./docs/herramientas/demps-manual-usuario.pdf"
+        },
+        {
+            "title":"Reporte DEMPS",
+            "url":"./docs/herramientas/reporte-demps-final.pdf"
+        }
+    ]
+}

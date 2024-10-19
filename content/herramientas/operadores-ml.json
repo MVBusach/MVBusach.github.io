@@ -1,0 +1,43 @@
+{
+    "title":"Repositorio de operadores",
+    "titleDrop":"Operadores de clasificación de texto para emergencia",
+    "description":"El diseño y validación del instrumento se realizó con métodos mixtos, de tipo secuencial, participando expertos de organizaciones de voluntarios en Chile  en la etapa de construcción y 117 voluntarios del país en la etapa de validación. El instrumento consta de  5 dimensiones -conocimiento, habilidades/destrezas, conducta, motivación, y deseabilidad social-, con un total de 18 ítems y presenta adecuada validez y confiablidad para para su uso en situaciones de emergencias y desastres, pudiendo optimizar las labores de organismos de gestión del riesgo.",
+    "featuredImage":"./img/herramientas/operadores-ml/operadores-ml-hero.jpg",
+    "features":[
+        {
+            "description":"Disponibles al público mediante una biblioteca con un API para objetos en lenguaje Java",
+            "img":"ico-api"
+        },
+        {
+            "description":"Adaptación de los operadores en lenguaje Python",
+            "img":"ico-python"
+        },
+        {
+            "description":"Listado de clasificadores: Afecto, Sentimientos, Asertividad, Informatividad, Tipo de información, Monitor de redes sociales y Detección de tópicos emergentes",
+            "img":"ico-categories"
+        }
+    ],
+    "documents":[
+        {
+            "title":"Descripción de instrumento",
+            "url":"./docs/herramientas/biblioteca-operadores-ml.pdf"
+        }
+    ],
+    "sponsors":[
+        {
+            "title":"MovidosXChile",
+            "img":"./img/herramientas/instrumentos-psicometricos/logos/logo-movidos.png",
+            "link":"https://movidosxchile.cl/"
+        },
+        {
+            "title":"ONEMI",
+            "img":"./img/herramientas/operadores-ml/logos/logo-onemi.png",
+            "link":"https://www.onemi.gov.cl/"
+        },
+        {
+            "title":"SERNAGEOMIN",
+            "img":"./img/herramientas/operadores-ml/logos/logo-sernageomin.png",
+            "link":"https://www.sernageomin.cl/"
+        }
+    ]
+}
